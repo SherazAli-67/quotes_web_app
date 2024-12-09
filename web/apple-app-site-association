@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "S8QB4VV633.com.sherazapp.quotes",
+        "paths": ["*"]
+      }
+    ]
+  }
+}

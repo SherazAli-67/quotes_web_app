@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sherazapp.quotes",
+      "sha256_cert_fingerprints": [
+        "A0:A4:4D:72:B1:5E:5C:0C:E4:28:6A:58:CF:B8:15:B4:BB:CD:F6:5E:6D:A5:34:23:9F:7E:35:B3:96:8E:B0:C2"
+      ]
+    }
+  }
+]
